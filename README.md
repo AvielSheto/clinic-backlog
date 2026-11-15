@@ -1,1 +1,1 @@
-# clinic-backlog - Medical clinic task list
+# clinic-backlog - Clinic appointments backlog and task list
